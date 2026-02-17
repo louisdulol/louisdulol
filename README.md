@@ -20,9 +20,9 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/cat4.png" width="115"/>
+<img align="right" src="cat4.png" width="115"/>
 
-##  Quem Sou Eu?
+## 👤 Quem Sou Eu?
 
 Sou **Luiz Felipe**, 15 anos, estudante do **9º ano** em **Igarassu, Pernambuco**.
 
@@ -34,9 +34,9 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/cat3.png" width="100"/>
+<img align="right" src="cat3.png" width="100"/>
 
-##  Um Pouco Mais Sobre Mim
+## 🧩 Um Pouco Mais Sobre Mim
 
 - 📍 &nbsp;Moro em **Igarassu, Pernambuco**
 - 🐾 &nbsp;Fundei a **Wole** — garagem que transforma ideias em código
@@ -50,7 +50,7 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 ---
 
-##  Minhas Stacks
+## 🛠️ Minhas Stacks
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7"/>
@@ -58,7 +58,7 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 ---
 
-##  Certificações
+## 📜 Certificações
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 ---
 
-##  GitHub Status
+## 📊 GitHub Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=louisdulol&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=C084FC&icon_color=A855F7&text_color=e9d5ff&rank_icon=github" height="160"/>
@@ -87,7 +87,7 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 ---
 
-## Gráfico de Contribuições
+## 📈 Gráfico de Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=louisdulol&theme=tokyo-night&bg_color=0d0221&color=C084FC&line=7C3AED&point=e9d5ff&area=true&hide_border=true" width="95%"/>
@@ -95,11 +95,11 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 ---
 
-## Wole — Minha Equipe de Garagem
+## 🐾 Wole — Minha Equipe de Garagem
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/cat2.png" width="70"/>
+<img src="cat2.png" width="70"/>
 
 > *"Uma equipe de garagem construindo coisas incríveis desde o começo."*
 
@@ -111,18 +111,18 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/qrcode.png" width="130" alt="QR Code Wole"/>
+<img src="qrcode.png" width="130" alt="QR Code Wole"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/cat1.gif" width="55"/>
+  <img src="cat1.gif" width="55"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/cat3.png" width="55"/>
+  <img src="cat3.png" width="55"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/louisdulol/louisdulol/main/cat1.gif" width="55"/>
+  <img src="cat1.gif" width="55"/>
 
   <br/><br/>
 
