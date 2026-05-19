@@ -39,12 +39,11 @@ Fundador da **Wole**, uma equipe de garagem onde ideias viram produtos. Certific
 ##  Um Pouco Mais Sobre Mim
 
 - 📍 &nbsp;Moro em **Igarassu, Pernambuco**
-- 🐾 &nbsp;Fundei a **Wole** — garagem que transforma ideias em código
-- 🌐 &nbsp;Site da Wole em produção: [wolebr.pages.dev](https://7aedd896.wolebr.pages.dev/)
+- 🏛️ &nbsp;Fundei a **Wole** — equipe de garagem que transforma ideias em solução
 - 🏆 &nbsp;**65h** de certificações (IFRS + IFSC)
 - 📐 &nbsp;Destaque em **matemática** e exatas
 - 🚀 &nbsp;Buscando vaga como **Jovem Aprendiz em TI**
-- 🎮 &nbsp;Curto criar interfaces, resolver problemas e aprender todo dia
+- 🎮 &nbsp;Gosto de criar interfaces, resolver problemas e aprender todo dia
 
 <br clear="right"/>
 
